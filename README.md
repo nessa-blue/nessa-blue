@@ -1,4 +1,4 @@
-### Hi there
+### Welcome to my profile
 😁 I'm 10 years old <br/>
 😝 I'm currently learning C programming language <br/>
 🥳 Birthday: 12.1.2010. <br/>
