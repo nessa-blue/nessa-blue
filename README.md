@@ -3,4 +3,4 @@
 😝 I'm currently learning C programming language <br/>
 🥳 Birthday: 12.1.2010. <br/>
 😎 My role models are Emmet-white, Y-Less, Southclaws <br/>
-😂 Currently working on project TicTacToe :P
+😂 Currently working on project TicTacToe in C :P
